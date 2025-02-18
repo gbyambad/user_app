@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605110982985",
+    "project_id": "indriver-clone-fe705",
+    "storage_bucket": "indriver-clone-fe705.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605110982985:android:81c6a8bdc611df7c18e298",
+        "android_client_info": {
+          "package_name": "com.example.usersindriverapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcMzY5wxfWjF0xSVI8DKTxKS_XdKysBRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
